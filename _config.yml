@@ -9,8 +9,7 @@ permalink:        /:title/
 title:            Advanced Foss Blog
 tagline:          ''
 description:      ''
-url:              http://citruspi.github.io/advfoss-blog
-baseurl:		  /advfoss-blog
+url:              http://advfoss-blog.mihirsingh.com
 
 author:
   name:           'citruspi'
